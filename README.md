@@ -13,9 +13,9 @@ I'm currently learning to develop robust algorithmic trading systems and conduct
 - Instruments: equities, options, futures, ETFs  
 
 ## 🚀 Current Focus
-- Event-driven backtesting engine (C++)
-- Exploratory research into alpha-generating signals
-- Building tools for data ingestion, cleaning, and visualization
+- Linux VPS Deployment Toolkit
+- Exploratory research into alpha models, risk models, transaction cost models, portfolio models, and execution models
+- High-Frequency Trade Engine
 
 ## 🎯 Career Goal
 To join a quant team where I can contribute to both research and development—bridging the gap between math and execution—while continuing to grow in algorithmic trading, financial theory, and computational finance.
